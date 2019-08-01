@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceive</string>
+    <string name="label_from">From: %s</string>
+</resources>
